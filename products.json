@@ -24,10 +24,9 @@
                 "stock":60,
                 "price":"22,000,000",
                 "images":[
-                    "https://dkstatics-public.digikala.com/digikala-products/114242209.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242277.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242282.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242284.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+                    "https://dkstatics-public.digikala.com/digikala-products/5e4f34179447984acf61f8a982196c0846fd49d6_1709706035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/0ae9d7717ee992f76137f3d4ee434e68c44d6c1f_1709706036.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/d759fddcc39a5f693512acf568e3f384b0d915b9_1709706035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
                 ]
             },
             "fa":{
@@ -53,10 +52,9 @@
                 "stock":60,
                 "price":"22,000,000",
                 "images":[
-                    "https://dkstatics-public.digikala.com/digikala-products/114242209.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242277.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242282.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
-                    "https://dkstatics-public.digikala.com/digikala-products/114242284.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+                    "https://dkstatics-public.digikala.com/digikala-products/5e4f34179447984acf61f8a982196c0846fd49d6_1709706035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/0ae9d7717ee992f76137f3d4ee434e68c44d6c1f_1709706036.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/d759fddcc39a5f693512acf568e3f384b0d915b9_1709706035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
                 ]
             }
         }
