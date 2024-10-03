@@ -22,7 +22,7 @@ fetch('../../../products.json')
         const specItem = document.createElement('li');
         
         // اگر مشخصه پورت‌ها باشد، به صورت جداگانه پردازش می‌کنیم
-        if (spec === 'Ports') {
+        if (spec === 'پورت ها') {
             const ports = product.spec[spec];
             specItem.classList.add('spec-item');
             
