@@ -1,0 +1,64 @@
+{
+    "products":{
+        "NM-100":{
+            "en":{
+                "name":"NewLife Modem 5G - NM-100",
+                "description":"NewLife 5G modem - NR-100, using the latest achievements of 5G technology, is a revolution in home and business internet experience. This powerful modem provides a fast, reliable and seamless connection experience by offering download speeds of up to 4.67 Gbps and upload speeds of up to 3.74 Gbps. The speed and performance of the NR-100 modem with its impressive capabilities offers download speeds of up to 4.67 Gbps and upload speeds of up to 3.74 Gbps. These technical specifications enable online activities such as high-quality video games, high-quality video meetings, and downloading large files in a short period of time. Support for Wi-Fi 6 This modem uses the Wi-Fi 6 standard, which has significantly improved in terms of performance and stability compared to previous generations of Wi-Fi. Supporting 2.4 GHz and 5 GHz frequencies, the HA5420 ensures that users have access to a strong and stable Wi-Fi connection anywhere in their home or office. High user capacity The NR-100 5G modem is capable of supporting 128 users simultaneously, which makes it ideal for use in high-density environments such as offices, cafes, and even large homes where many devices are connected to the network. makes Advanced security features In today's world where cyber security is more and more important, the NR-100 modem brings security to its users by providing advanced security solutions. These security protections not only protect users' personal data from unauthorized access, but also ensure that their communication networks are resistant to cyber threats. Easy installation One of the key advantages of NR-100 5G modem is its ease of installation and setup. Users can easily install and start using the device without the need for complex technical knowledge or technician intervention. Summary The NR-100 5G modem offers a combination of unparalleled speed, Wi-Fi 6 standard support, high user capacity, advanced security and easy installation, making it a unique choice for those looking to optimize their internet experience. Whether for home users who want to enjoy high-quality online entertainment or for businesses looking to increase their productivity through fast and reliable connections, the NR-100 5G modem is an ideal solution.",
+                "spec":{
+                    "Maximum supported user":"128",
+                    "Router capabilities":"SMS support",
+                    "Supported bands":"TDD-LTE B38/B40/B41/B42 FDD-LTE B1/B3/B5/B7/B8/B20/B28",
+                    "Interfaces":"RJ-45 WAN/LAN, Wlan, Mobile Network",
+                    "Supported networks":"3G, 4G, 4.5G, 5G",
+                    "Energy source":"12V 2A DC Power Adapter",
+                    "Antenna type":"Internal CAT CAT 19",
+                    "Data transfer speed":"5G NR SA download speed: up to 4.67 Gbps / 5G NR NSA: up to 3.74 Gbps / 4G LTE: up to 1.6 Gbps (Cat 19) 5G NR SA upload speed: up to 2.5 Gbps seconds / 5G NR NSA: up to 1.46 Gbps / 4G LTE: up to 200 Mbps (Cat 18)",
+                    "Ports":{
+                        "RJ-45 Lan 1000mb":4,
+                        "RJ-45 Wan 1000mb":1,
+                        "RJ-11 VOIP":1,
+                        "USB-3":1
+                    },
+                    "Facilities":"Multi SSID, Band Locking, Bridge Mode, Pin Manage, Multiple APN, IPV4, IPV6 Support, Sim Lock, VPN Support, TR069, SNMP, PPPoE, IPoE, FXS, VIOP, NAT support, Route support, VLAN support, MAC/IP Filtering, Port Forwarding/DMZ, Firewall, Traffic Setting, Message Management, USSD, Ping, Traceroute, TCP Dump, QoS, DDNS, SAMBA/FTP/DLNA"
+                },
+                "stock":60,
+                "price":"22,000,000",
+                "images":[
+                    "https://dkstatics-public.digikala.com/digikala-products/114242209.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242277.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242282.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242284.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+                ]
+            },
+            "fa":{
+                "name":"مودم NewLife 5G - NM-100",
+                "description":"مودم NewLife 5G - NR-100، با استفاده از آخرین دستاوردهای فناوری 5G، انقلابی در تجربه اینترنت خانگی و تجاری است. این مودم قدرتمند با ارائه سرعت دانلود تا 4.67 گیگابیت در ثانیه و سرعت آپلود تا 3.74 گیگابیت در ثانیه، تجربه اتصال سریع، قابل اعتماد و بدون درز را فراهم می کند. سرعت و عملکرد مودم NR-100 با قابلیت های چشمگیر خود سرعت دانلود تا 4.67 گیگابیت بر ثانیه و سرعت آپلود تا 3.74 گیگابیت بر ثانیه را ارائه می دهد. این مشخصات فنی فعالیت های آنلاین مانند بازی های ویدیویی با کیفیت بالا، جلسات ویدیویی با کیفیت بالا و دانلود فایل های حجیم را در مدت زمان کوتاهی امکان پذیر می کند. پشتیبانی از وای فای 6 این مودم از استاندارد وای فای 6 بهره می برد که نسبت به نسل های قبلی وای فای از نظر عملکرد و پایداری بهبود چشمگیری داشته است. HA5420 با پشتیبانی از فرکانس های 2.4 گیگاهرتز و 5 گیگاهرتز تضمین می کند که کاربران در هر نقطه از خانه یا محل کار خود به یک اتصال Wi-Fi قوی و پایدار دسترسی دارند. ظرفیت کاربر بالا مودم NR-100 5G قادر است از 128 کاربر به طور همزمان پشتیبانی کند، که آن را برای استفاده در محیط های با تراکم بالا مانند دفاتر، کافه ها و حتی خانه های بزرگ که بسیاری از دستگاه ها به شبکه متصل هستند، ایده آل می کند. ویژگی‌های امنیتی پیشرفته را می‌سازد در دنیای امروزی که امنیت سایبری اهمیت بیشتری پیدا می‌کند، مودم NR-100 با ارائه راه‌حل‌های امنیتی پیشرفته، امنیت را برای کاربران خود به ارمغان می‌آورد. این حفاظت‌های امنیتی نه تنها از داده‌های شخصی کاربران در برابر دسترسی غیرمجاز محافظت می‌کنند، بلکه تضمین می‌کنند که شبکه‌های ارتباطی آن‌ها در برابر تهدیدات سایبری مقاوم هستند. نصب آسان یکی از مزایای کلیدی مودم NR-100 5G سهولت نصب و راه اندازی آن است. کاربران می توانند بدون نیاز به دانش فنی پیچیده یا مداخله تکنسین به راحتی دستگاه را نصب کرده و شروع به استفاده از آن کنند. خلاصه مودم NR-100 5G ترکیبی از سرعت بی‌نظیر، پشتیبانی استاندارد Wi-Fi 6، ظرفیت کاربر بالا، امنیت پیشرفته و نصب آسان را ارائه می‌دهد که آن را به انتخابی منحصربه‌فرد برای کسانی که به دنبال بهینه‌سازی تجربه اینترنت خود هستند تبدیل می‌کند. چه برای کاربران خانگی که می‌خواهند از سرگرمی‌های آنلاین با کیفیت بالا لذت ببرند و چه برای مشاغلی که به دنبال افزایش بهره‌وری از طریق اتصالات سریع و مطمئن هستند، مودم NR-100 5G یک راه‌حل ایده‌آل است.",
+                "spec":{
+                    "حداکثر کاربر پشتیبانی شده":"128",
+                    "قابلیت های روتر":"پشتیبانی پیامک",
+                    "باندهای پشتیبانی شده":"TDD-LTE B38/B40/B41/B42 FDD-LTE B1/B3/B5/B7/B8/B20/B28",
+                    "ارتباطات":"RJ-45 WAN/LAN, Wlan, Mobile Network",
+                    "شبکه های پشتیبانی شده":"3G, 4G, 4.5G, 5G",
+                    "منبع انرژی":"آداپتور برق 12 ولت 2 آمپر DC",
+                    "نوع آنتن":"داخلی CAT CAT 19",
+                    "سرعت انتقال داده":"سرعت دانلود 5G NR SA: تا 4.67 گیگابیت بر ثانیه / 5G NR NSA: حداکثر 3.74 گیگابیت بر ثانیه / 4G LTE: حداکثر 1.6 گیگابیت در ثانیه (Cat 19) سرعت آپلود 5G NR SA: حداکثر 2.5 گیگابیت بر ثانیه / 5G NR NSA: تا 14. گیگابیت بر ثانیه / 4G LTE: حداکثر 200 مگابیت در ثانیه (Cat 18)",
+                    "پورت ها":{
+                        "RJ-45 Lan 1000mb":4,
+                        "RJ-45 Wan 1000mb":1,
+                        "RJ-11 VOIP":1,
+                        "USB-3":1
+                    },
+                    "امکانات":"چند SSID، قفل باند، حالت پل، مدیریت پین، APN چندگانه، IPV4، پشتیبانی IPV6، قفل سیم کارت، پشتیبانی VPN، TR069، SNMP، PPPoE، IPoE، FXS، VIOP، پشتیبانی NAT، پشتیبانی مسیر، پشتیبانی از VLAN، MAC/IP فیلتر کردن، انتقال پورت/DMZ، فایروال، تنظیمات ترافیک، مدیریت پیام، USSD، پینگ، Traceroute، TCP Dump، QoS، DDNS، SAMBA/FTP/DLNA"
+                },
+                "stock":60,
+                "price":"22,000,000",
+                "images":[
+                    "https://dkstatics-public.digikala.com/digikala-products/114242209.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242277.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242282.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+                    "https://dkstatics-public.digikala.com/digikala-products/114242284.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+                ]
+            }
+        }
+    }
+}

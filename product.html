@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Page</title>
+    <link rel="stylesheet" href="css/products/style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1><a href="/">NewLife Store</a></h1>
+        </div>
+        <nav id="navbar">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="/fa">فارسی</a></li>
+            </ul>
+        </nav>
+        <!-- دکمه همبرگری برای دستگاه‌های کوچک -->
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </header>
+
+    <main>
+        <section class="product-details">
+            <div class="product-images">
+                <img id="main-image" src="" alt="Product Image">
+                <div class="thumbnails" id="thumbnails">
+                    <!-- تصاویر کوچک محصولات اینجا اضافه می‌شوند -->
+                </div>
+                <div class="product-price-stock">
+                    <div class="price" id="product-price"></div>
+                    <div class="stock" id="product-stock"></div>
+                </div>
+
+                <!-- دکمه ثبت سفارش -->
+                <button class="order-btn">Purchase</button>
+            </div>
+
+            <div class="product-info">
+                <h2 id="product-name"></h2>
+                <p id="product-description"></p>
+                <h3>Technical specifications</h3>
+                <ul id="product-specs">
+                    <!-- مشخصات فنی اینجا اضافه می‌شوند -->
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2021 NewLife All Rights Reserved</p>
+    </footer>
+
+    <script src="js/products/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.store.nlco.site</loc>
+		<priority>1.00</priority>
+		<lastmod>2024-10-03</lastmod>
+	</url>
+	<url>
+		<loc>https://www.store.nlco.site/product?id=NM-100</loc>
+		<priority>0.67</priority>
+		<lastmod>2024-10-03</lastmod>
+	</url>
+	<url>
+		<loc>https://www.store.nlco.site/fa</loc>
+		<priority>0.67</priority>
+		<lastmod>2024-10-03</lastmod>
+	</url>
+	<url>
+		<loc>https://www.store.nlco.site/fa/product?id=NM-100</loc>
+		<priority>0.33</priority>
+		<lastmod>2024-10-03</lastmod>
+	</url>
+</urlset>
